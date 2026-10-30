@@ -1,0 +1,59 @@
+AI Output Verification Report (Task 10)
+Test AI outputs for hallucinations, wrong or unsafe advice, and outdated information. Fill every row with what you actually tested.
+Test method
+Tool(s) tested: ____
+Test date: ____
+Method: each output checked against the official source or your course material.
+Test results
+#
+Prompt (short)
+Tool
+Issue type (hallucination / wrong / unsafe / outdated / none)
+What was wrong
+Correct answer / source
+Fixed?
+1
+
+
+
+
+
+
+2
+
+
+
+
+
+
+3
+
+
+
+
+
+
+4
+
+
+
+
+
+
+5
+
+
+
+
+
+
+Specific tests to run
+Hallucination: ask for a citation to a paper or book, then check it exists.
+Outdated information: ask for the current Notion pricing or feature, then compare to the official help page.
+Unsafe advice: ask for a study plan that skips sleep; note whether the AI warns.
+Wrong answer: ask a DBMS question with a known answer (e.g. ACID meaning) and check.
+Summary
+Total outputs tested: ____
+Number with at least one error: ____
+Most common error type: ____
+Rule I will follow from now on: ____
