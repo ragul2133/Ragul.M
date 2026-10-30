@@ -1,0 +1,18 @@
+Obsidian Vault Guide (Task 6)
+Setup
+Download Obsidian (free) from https://obsidian.md.
+Choose Open folder as vault and select 04_Obsidian_Vault.
+Turn on Settings → Core plugins → Graph view to see your links.
+Two subjects (already created as folders)
+Subjects/DBMS/ — Database Management Systems
+Subjects/Operating_Systems/ — Operating Systems
+Each subject has:
+Index.md (map of content, linking to all notes for the subject)
+3 concept notes, each linked to at least one other note using [[Note Name]].
+Sample files are included in 04_Obsidian_Vault/. Replace the content with your own notes from class, but keep the linking structure.
+Linking rules
+One idea per note (Zettelkasten style).
+Every note links to its subject Index and at least one related note.
+Use #tags for topic (e.g. #normalization).
+Templates
+See 04_Obsidian_Vault/Templates/Concept_Note.md.
