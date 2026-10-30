@@ -1,0 +1,61 @@
+Notion Workspace Setup Guide (Task 5)
+Build this in your own Notion account (free plan is enough).
+Page structure
+📘 Student HQ
+├── 🎯 Goals (database)
+├── ✅ Tasks (database)
+├── 📝 Notes (database)
+├── 📅 Weekly Review (page)
+└── 🤖 AI Prompts (page)
+Goals database
+Property
+Type
+Goal
+Title
+Area
+Select (Study, Projects, Health, Career)
+Target date
+Date
+Status
+Select (Not started, In progress, Done)
+Progress
+Number (0–100)
+Tasks database
+Property
+Type
+Task
+Title
+Due
+Date
+Priority
+Select (High, Medium, Low)
+Status
+Status (To do, Doing, Done)
+Goal
+Relation → Goals
+Time estimate (min)
+Number
+Time actual (min)
+Number
+Add a view: Board grouped by Status, and Table filtered to "Due this week".
+Notes database
+Property
+Type
+Note
+Title
+Subject
+Select
+Type
+Select (Lecture, Concept, Project, Idea)
+Tags
+Multi-select
+Related task
+Relation → Tasks
+Steps
+Create the page "Student HQ".
+Add the three databases above as inline databases.
+Create the properties exactly as listed.
+Add 5 example tasks and 2 goals (replace with your real ones).
+Create the "Weekly Review" page using the template in 14_Weekly_Review_Checklist.md.
+Click Share → Share to web and copy the link into your submission.
+Use the link in the submission only after you have filled in real content.
