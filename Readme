@@ -1,54 +1,82 @@
 CAPSTONE 59 — Personal Productivity System with Notion and Obsidian
+
 Project Question: How can AI help build a personal knowledge and task system that a student actually keeps using?
 Target audience: College students and early-career developers.
+
 Weightage: 100 marks
 Folder contents
 Folder / File
 Covers task(s)
+
 01_Research_Report.md
 1, 2, 3, 4 (research summary and sources)
 02_Notion_Workspace_Guide.md
+
 5 (Notion workspace build)
-03_Obsidian_Vault_Guide.md + 04_Obsidian_Vault/
+03_Obsidian_Vault_Guide.md + 
+
+04_Obsidian_Vault/
 6 (linked notes for 2 subjects)
+
 05_Trial_Log.md
 7 (2-week trial log)
+
 06_Quiz_and_Answer_Key.md
 8 (10-question quiz with answers)
+
 07_Presentation_Outline.md
 8 (6-slide deck outline)
+
 08_Automation_Weekly_Review.md
 9 (automated weekly review)
+
 09_Prompt_Library.md
-11 (prompt library)
+ (prompt library)
+
 10_Verification_Report.md
-10 (AI output testing)
+ (AI output testing)
+
 11_Before_After_Analysis.md
 Final submission item
+
 12_Ethics_Statement.md
-12 (ethics and privacy)
+(ethics and privacy)
+
 13_Final_Demo_Script.md
 Final submission item
+
 14_Weekly_Review_Checklist.md
 Final submission item
 Final submission checklist
+
 Research report
+
 Weekly review checklist
+
 Notion workspace (share link)
+
 Obsidian vault (folder zipped)
+
 Trial log
+
 Quiz and answer key
+
 Presentation (build the 6 slides from 07_Presentation_Outline.md)
 Automation
 Prompt library
 Verification report
 Before/after analysis
+
 Final demo
 Items you must complete yourself
 Some parts need your own accounts and real use over time, so they can't be completed by a document alone:
-Notion workspace (Task 5): create it in your Notion account using the guide in 02.
-Obsidian vault (Task 6): install Obsidian (free) and open 04_Obsidian_Vault as a vault.
-2-week trial (Task 7): use the system for 14 days and fill in 05_Trial_Log.md with real numbers.
+°Notion workspace (Task 5): create it in your Notion account using the guide in 02.
+
+°Obsidian vault (Task 6): install Obsidian (free) and open 04_Obsidian_Vault as a vault.
+
+°2-week trial (Task 7): use the system for 14 days and fill in 05_Trial_Log.md with real numbers.
+
 Automation (Task 9): set up the steps in 08 in Zapier/Make (free tier) or Notion.
-Final demo: practice using 13.
-Fill the bracketed [ ] placeholders with your real results. Do not submit invented numbers.
+Final demo: practice using
+
+(Fill the bracketed [ ] placeholders with your real results. Do not submit invented numbers).
