@@ -1,0 +1,23 @@
+10-Question Quiz with Answer Key (Task 8)
+Questions
+What are the four buckets of the PARA method?
+What is the main idea of a Zettelkasten note?
+In Notion, which property type links a task to a goal?
+What is the difference between a database view and a database in Notion?
+What does [[Note Name]] do in Obsidian?
+What does "Atomic" mean in ACID?
+Name the first three normal forms in order.
+Name two scheduling algorithms and one trade-off of each.
+What are the four necessary conditions for deadlock?
+Why should AI outputs be verified before use?
+Answer Key
+Projects, Areas, Resources, Archives.
+One idea per note, linked to other notes so knowledge connects.
+Relation.
+A database holds the data; a view is a filtered or sorted way of showing the same data.
+Creates an internal link to the note with that name.
+A transaction completes fully or not at all.
+1NF, 2NF, 3NF.
+Example: Round Robin (fair, but more context switches); FCFS (simple, but long waits for short jobs). Any valid pair with a correct trade-off earns full marks.
+Mutual exclusion, hold and wait, no preemption, circular wait.
+AI can hallucinate facts, give outdated information, or give unsafe advice.
