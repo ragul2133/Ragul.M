@@ -1,0 +1,21 @@
+Automation: Weekly Review Summary (Task 9)
+Goal: Every Sunday, automatically generate a summary of the week's completed tasks.
+Option A — Zapier (free tier)
+Trigger: Schedule by Zapier — every Sunday 18:00 (IST, set your timezone).
+Action: Notion → Find Database Items — Tasks database, filter Status = Done and Due in last 7 days.
+Action: ChatGPT / Claude (via Zapier) — prompt below with the task list inserted.
+Action: Notion → Create Database Item in the Weekly Review page with the output.
+Prompt used in step 3
+You are helping a college student review their week.
+Here are the tasks completed this week:
+{{task_list}}
+
+Write:
+1. A 3-line summary of what was done.
+2. The top 2 things that went well.
+3. One task to carry over to next week.
+Do not invent tasks that are not in the list.
+Option B — Manual fallback
+If the free automation limit is reached, run the same prompt by hand in Claude every Sunday and paste the result into the Weekly Review page.
+Proof for submission
+Screenshot of the Zap (or manual run) and one generated summary, with real task data.
