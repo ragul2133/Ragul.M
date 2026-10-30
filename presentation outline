@@ -1,0 +1,8 @@
+Presentation: 6-Slide Deck Outline (Task 8)
+Build these slides in Google Slides, PowerPoint, or Gamma (free tier).
+Slide 1 — Title Personal Productivity System with Notion and Obsidian. Your name, date.
+Slide 2 — Problem and audience Students lose track of tasks and notes across apps. Audience: college students and early-career developers. Project question: How can AI help build a system a student actually keeps using?
+Slide 3 — Research PARA (organization), Zettelkasten (learning), habit design (keeping it alive). Cite sources from 01_Research_Report.md.
+Slide 4 — What I built Notion workspace (tasks, goals, notes, weekly review) and Obsidian vault (2 subjects, linked notes). Add screenshots of your own workspace.
+Slide 5 — Results from the 2-week trial Use your real numbers from 05_Trial_Log.md: days used, minutes saved, top problems. Add a simple bar chart.
+Slide 6 — Lessons, ethics and next steps What worked, what AI got wrong (from 10_Verification_Report.md), privacy rule (no private notes in prompts), and one improvement for next time.
