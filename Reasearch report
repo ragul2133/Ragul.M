@@ -1,0 +1,31 @@
+Research Report: Personal Knowledge and Habit Systems for Students
+1. Target audience
+College students and early-career developers who juggle classes, projects, internships and side learning, with limited time to maintain tools.
+2. Research: knowledge management methods
+PARA (Tiago Forte)
+Organizes everything into four buckets: Projects (active, with a deadline), Areas (ongoing responsibilities such as health or coursework), Resources (topics of interest), and Archives (inactive items).
+Strength: simple sorting rule; works well for task-driven people.
+Weakness: needs regular upkeep to avoid clutter.
+Zettelkasten (Niklas Luhmann method)
+Small atomic notes, each with one idea, linked to other notes by IDs or tags. Knowledge grows through connections.
+Strength: strong for long-term learning and writing.
+Weakness: slower to start; can feel heavy for beginners.
+Habit design
+Useful ideas for keeping a system alive: make the first action tiny, attach it to an existing routine, and keep a weekly review as a fixed habit. Reducing friction matters more than having a perfect structure.
+3. Research: AI tools used in this project
+Notion: databases for tasks, goals and notes; good for structured tracking.
+Obsidian: local Markdown notes with bidirectional links; good for linked learning notes.
+Claude / ChatGPT / Gemini: summarizing notes, generating quizzes, drafting weekly reviews.
+Mem (free tier): auto-organizes notes; used for comparison.
+Gamma: quick slide generation for the presentation.
+Zapier / Make: connects tools to automate one step.
+4. Sources to verify
+Before final submission, check these official sources yourself and cite the page you actually read:
+Notion Help Center: https://www.notion.com/help
+Obsidian Help: https://help.obsidian.md
+Tiago Forte, PARA method: https://fortelabs.com
+Zettelkasten overview (Luhmann archive): https://niklas-luhmann-archiv.de
+5. Summary of findings
+A student system works best when it is small, uses one tool for tasks and one for notes, and has a fixed weekly review. PARA handles task organization; Zettelkasten handles learning. AI helps most with summarizing, quiz creation and weekly review drafts, and must be checked for errors.
+6. Limitations
+Findings are based on published method descriptions and tool documentation. The student's own 2-week trial data is needed to judge whether the system is actually used.
